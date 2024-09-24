@@ -1,199 +1,71 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-  <title>Example RSS Feed</title>
-  <link>http://www.example.org/</link>
-  <description>This is an example of an RSS feed</description>
-  <item>
-    <id>ZI0102100JZBLUE0032B</id>
-    <price>895</price>
-    <image_link>https://cdn.zivame.com/tr:w-500,h-500,cm-pad_resize,bg-F0F0F0/media/zcmsimages/configimages/ZI100J-Mykonos%20Blue/1_xlarge.JPG?t=1642085139</image_link>
-    <link>https://www.zivame.com/zivame-moroccan-lace-wirefree-comfort-bra-blue.html</link>
-    <title>Zivame Moroccan Lace Double Layered Non Wired 34th Coverage Bra  Mykonos Blue</title>
-    <color>Blue</color>
-    <core_size_availability>16.67</core_size_availability>
-    <style>Non-Core</style>
-    <category>Bras</category>
-    <sale_price>537</sale_price>
-    <availability>in stock</availability>
-    <brand>Zivame</brand>
-    <app_name>Zivame</app_name>
-    <additional_image_link>https://cdn.zivame.com/tr:w-500,h-500,cm-pad_resize,bg-F0F0F0/media/zcmsimages/configvmimages/ZI100J-Mykonos%20Blue_VM/1_xlarge.jpg</additional_image_link>
-    <sub_category>Non Padded</sub_category>
-    <offer_bucket>31%-40%</offer_bucket>
-    <review_count>40.0</review_count>
-    <review_average_rating>4.42</review_average_rating>
-    <is_virtual_bundle>False</is_virtual_bundle>
-    <wishlist_count>4549</wishlist_count>
-    <main_category_link>https://www.zivame.com/bras.html</main_category_link>
-    <bestseller_weight>4.25</bestseller_weight>
-  </item>
-  <item>
-    <id>ZI0102100JZBLUE0032C</id>
-    <price>895</price>
-    <image_link>https://cdn.zivame.com/tr:w-500,h-500,cm-pad_resize,bg-F0F0F0/media/zcmsimages/configimages/ZI100J-Mykonos%20Blue/1_xlarge.JPG?t=1642085139</image_link>
-    <link>https://www.zivame.com/zivame-moroccan-lace-wirefree-comfort-bra-blue.html</link>
-    <title>Zivame Moroccan Lace Double Layered Non Wired 34th Coverage Bra  Mykonos Blue</title>
-    <color>Blue</color>
-    <core_size_availability>16.67</core_size_availability>
-    <style>Non-Core</style>
-    <category>Bras</category>
-    <sale_price>537</sale_price>
-    <availability>in stock</availability>
-    <brand>Zivame</brand>
-    <app_name>Zivame</app_name>
-    <additional_image_link>https://cdn.zivame.com/tr:w-500,h-500,cm-pad_resize,bg-F0F0F0/media/zcmsimages/configvmimages/ZI100J-Mykonos%20Blue_VM/1_xlarge.jpg</additional_image_link>
-    <sub_category>Non Padded</sub_category>
-    <offer_bucket>31%-40%</offer_bucket>
-    <review_count>40.0</review_count>
-    <review_average_rating>4.42</review_average_rating>
-    <is_virtual_bundle>False</is_virtual_bundle>
-    <wishlist_count>4549</wishlist_count>
-    <main_category_link>https://www.zivame.com/bras.html</main_category_link>
-    <bestseller_weight>4.25</bestseller_weight>
-  </item>
-  <item>
-    <id>ZI0102100J00RED0032C</id>
-    <price>895</price>
-    <image_link>https://cdn.zivame.com/tr:w-500,h-500,cm-pad_resize,bg-F0F0F0/media/zcmsimages/configimages/ZI100J-Bittersweet/1_xlarge.JPG?t=1642140611</image_link>
-    <link>https://www.zivame.com/zivame-moroccan-lace-wirefree-comfort-bra-bright-red.html</link>
-    <title>Zivame Moroccan Lace Double Layered Non Wired 34th Coverage Bra  Bittersweet</title>
-    <color>Red</color>
-    <core_size_availability>41.67</core_size_availability>
-    <style>Non-Core</style>
-    <category>Bras</category>
-    <sale_price>850</sale_price>
-    <availability>in stock</availability>
-    <brand>Zivame</brand>
-    <app_name>Zivame</app_name>
-    <additional_image_link>https://cdn.zivame.com/tr:w-500,h-500,cm-pad_resize,bg-F0F0F0/media/zcmsimages/configvmimages/ZI100J-Bittersweet_VM/1_xlarge.jpg</additional_image_link>
-    <sub_category>Non Padded</sub_category>
-    <offer_bucket>0%-10%</offer_bucket>
-    <review_count>36.0</review_count>
-    <review_average_rating>3.83</review_average_rating>
-    <is_virtual_bundle>False</is_virtual_bundle>
-    <wishlist_count>4549</wishlist_count>
-    <main_category_link>https://www.zivame.com/bras.html</main_category_link>
-    <bestseller_weight>4.9686</bestseller_weight>
-  </item>
-  <item>
-    <id>ZI0102100J00RED0032D</id>
-    <price>895</price>
-    <image_link>https://cdn.zivame.com/tr:w-500,h-500,cm-pad_resize,bg-F0F0F0/media/zcmsimages/configimages/ZI100J-Bittersweet/1_xlarge.JPG?t=1642140611</image_link>
-    <link>https://www.zivame.com/zivame-moroccan-lace-wirefree-comfort-bra-bright-red.html</link>
-    <title>Zivame Moroccan Lace Double Layered Non Wired 34th Coverage Bra  Bittersweet</title>
-    <color>Red</color>
-    <core_size_availability>41.67</core_size_availability>
-    <style>Non-Core</style>
-    <category>Bras</category>
-    <sale_price>850</sale_price>
-    <availability>in stock</availability>
-    <brand>Zivame</brand>
-    <app_name>Zivame</app_name>
-    <additional_image_link>https://cdn.zivame.com/tr:w-500,h-500,cm-pad_resize,bg-F0F0F0/media/zcmsimages/configvmimages/ZI100J-Bittersweet_VM/1_xlarge.jpg</additional_image_link>
-    <sub_category>Non Padded</sub_category>
-    <offer_bucket>0%-10%</offer_bucket>
-    <review_count>36.0</review_count>
-    <review_average_rating>3.83</review_average_rating>
-    <is_virtual_bundle>False</is_virtual_bundle>
-    <wishlist_count>4549</wishlist_count>
-    <main_category_link>https://www.zivame.com/bras.html</main_category_link>
-    <bestseller_weight>4.9686</bestseller_weight>
-  </item>
-  <item>
-    <id>ZI0102100J00RED0034C</id>
-    <price>895</price>
-    <image_link>https://cdn.zivame.com/tr:w-500,h-500,cm-pad_resize,bg-F0F0F0/media/zcmsimages/configimages/ZI100J-Bittersweet/1_xlarge.JPG?t=1642140611</image_link>
-    <link>https://www.zivame.com/zivame-moroccan-lace-wirefree-comfort-bra-bright-red.html</link>
-    <title>Zivame Moroccan Lace Double Layered Non Wired 34th Coverage Bra  Bittersweet</title>
-    <color>Red</color>
-    <core_size_availability>41.67</core_size_availability>
-    <style>Non-Core</style>
-    <category>Bras</category>
-    <sale_price>850</sale_price>
-    <availability>in stock</availability>
-    <brand>Zivame</brand>
-    <app_name>Zivame</app_name>
-    <additional_image_link>https://cdn.zivame.com/tr:w-500,h-500,cm-pad_resize,bg-F0F0F0/media/zcmsimages/configvmimages/ZI100J-Bittersweet_VM/1_xlarge.jpg</additional_image_link>
-    <sub_category>Non Padded</sub_category>
-    <offer_bucket>0%-10%</offer_bucket>
-    <review_count>36.0</review_count>
-    <review_average_rating>3.83</review_average_rating>
-    <is_virtual_bundle>False</is_virtual_bundle>
-    <wishlist_count>4549</wishlist_count>
-    <main_category_link>https://www.zivame.com/bras.html</main_category_link>
-    <bestseller_weight>4.9686</bestseller_weight>
-  </item>
-  <item>
-    <id>ZI0102100J00RED0034D</id>
-    <price>895</price>
-    <image_link>https://cdn.zivame.com/tr:w-500,h-500,cm-pad_resize,bg-F0F0F0/media/zcmsimages/configimages/ZI100J-Bittersweet/1_xlarge.JPG?t=1642140611</image_link>
-    <link>https://www.zivame.com/zivame-moroccan-lace-wirefree-comfort-bra-bright-red.html</link>
-    <title>Zivame Moroccan Lace Double Layered Non Wired 34th Coverage Bra  Bittersweet</title>
-    <color>Red</color>
-    <core_size_availability>41.67</core_size_availability>
-    <style>Non-Core</style>
-    <category>Bras</category>
-    <sale_price>850</sale_price>
-    <availability>in stock</availability>
-    <brand>Zivame</brand>
-    <app_name>Zivame</app_name>
-    <additional_image_link>https://cdn.zivame.com/tr:w-500,h-500,cm-pad_resize,bg-F0F0F0/media/zcmsimages/configvmimages/ZI100J-Bittersweet_VM/1_xlarge.jpg</additional_image_link>
-    <sub_category>Non Padded</sub_category>
-    <offer_bucket>0%-10%</offer_bucket>
-    <review_count>36.0</review_count>
-    <review_average_rating>3.83</review_average_rating>
-    <is_virtual_bundle>False</is_virtual_bundle>
-    <wishlist_count>4549</wishlist_count>
-    <main_category_link>https://www.zivame.com/bras.html</main_category_link>
-    <bestseller_weight>4.9686</bestseller_weight>
-  </item>
-  <item>
-    <id>ZI0102100J00RED0038D</id>
-    <price>895</price>
-    <image_link>https://cdn.zivame.com/tr:w-500,h-500,cm-pad_resize,bg-F0F0F0/media/zcmsimages/configimages/ZI100J-Bittersweet/1_xlarge.JPG?t=1642140611</image_link>
-    <link>https://www.zivame.com/zivame-moroccan-lace-wirefree-comfort-bra-bright-red.html</link>
-    <title>Zivame Moroccan Lace Double Layered Non Wired 34th Coverage Bra  Bittersweet</title>
-    <color>Red</color>
-    <core_size_availability>41.67</core_size_availability>
-    <style>Non-Core</style>
-    <category>Bras</category>
-    <sale_price>850</sale_price>
-    <availability>in stock</availability>
-    <brand>Zivame</brand>
-    <app_name>Zivame</app_name>
-    <additional_image_link>https://cdn.zivame.com/tr:w-500,h-500,cm-pad_resize,bg-F0F0F0/media/zcmsimages/configvmimages/ZI100J-Bittersweet_VM/1_xlarge.jpg</additional_image_link>
-    <sub_category>Non Padded</sub_category>
-    <offer_bucket>0%-10%</offer_bucket>
-    <review_count>36.0</review_count>
-    <review_average_rating>3.83</review_average_rating>
-    <is_virtual_bundle>False</is_virtual_bundle>
-    <wishlist_count>4549</wishlist_count>
-    <main_category_link>https://www.zivame.com/bras.html</main_category_link>
-    <bestseller_weight>4.9686</bestseller_weight>
-  </item>
-  <item>
-    <id>ZI1175FASHBLACK0032C</id>
-    <price>899</price>
-    <image_link>https://cdn.zivame.com/tr:w-500,h-500,cm-pad_resize,bg-F0F0F0/media/zcmsimages/configimages/ZI1175-Black/1_xlarge.jpg?t=1658939709</image_link>
-    <link>https://www.zivame.com/zivame-padded-wirefree-t-shirt-bra-black.html</link>
-    <title>Zivame Sporty Twist Padded Non Wired 34th Coverage TShirt Bra  Black</title>
-    <color>Black</color>
-    <core_size_availability>50.0</core_size_availability>
-    <style>Non-Core</style>
-    <category>Bras</category>
-    <sale_price>494</sale_price>
-    <availability>in stock</availability>
-    <brand>Zivame</brand>
-    <app_name>Zivame</app_name>
-    <additional_image_link>https://cdn.zivame.com/tr:w-500,h-500,cm-pad_resize,bg-F0F0F0/media/zcmsimages/configimages/ZI1175-Black/1_xlarge.jpg?t=1658939709</additional_image_link>
-    <sub_category>Padded</sub_category>
-    <offer_bucket>41%-50%</offer_bucket>
-    <review_count>737.0</review_count>
-    <review_average_rating>4.47</review_average_rating>
-    <is_virtual_bundle>False</is_virtual_bundle>
-    <wishlist_count>59545</wishlist_count>
-    <main_category_link>https://www.zivame.com/bras.html</main_category_link>
-    <bestseller_weight>1.7486</bestseller_weight>
-  </item>
-</channel>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Travel Insurance Quotes</title>
+    <link>https://www.canstar.com.au</link>
+    <description>Latest travel insurance quotes from different providers</description>
+    <item>
+      <id>73241443</id>
+      <title>Travel Insuranz | Premier Plus</title>
+      <link>https://www.canstar.com.au/redirect/travel-insurance?vertical=travel_insurance&amp;flags=promoted&amp;selectorFields=W3sibmFtZSI6IkRlc3RpbmF0aW9uIiwidHlwZSI6InN0cmluZyIsInZhbHVlIjoiVVNBJTIwYW5kJTIwSGF3YWlpIn0seyJuYW1lIjoiQWdlIiwidHlwZSI6InN0cmluZyIsInZhbHVlIjoiMTglMjAtJTIwNjklMjB5ZWFycyJ9XQ==&amp;filterFields=W3sibmFtZSI6IlByb2R1Y3QgSUQiLCJ2YWx1ZSI6IjczMjQxNDQzODUwNDg3ODQ1NzgxMTA4In1d</link>
+      <image_link>https://snapshots.canstar.com.au/widgets/assets/image/company/small_trav_logo.png</image_link>
+      <price>400</price>
+    </item>
+    <item>
+      <id>15332133</id>
+      <title>Zoom | Standard</title>
+      <link>https://www.canstar.com.au/redirect/travel-insurance?vertical=travel_insurance&amp;flags=monetised&amp;selectorFields=W3sibmFtZSI6IkRlc3RpbmF0aW9uIiwidHlwZSI6InN0cmluZyIsInZhbHVlIjoiVVNBJTIwYW5kJTIwSGF3YWlpIn0seyJuYW1lIjoiQWdlIiwidHlwZSI6InN0cmluZyIsInZhbHVlIjoiMTglMjAtJTIwNjklMjB5ZWFycyJ9XQ==&amp;filterFields=W3sibmFtZSI6IlByb2R1Y3QgSUQiLCJ2YWx1ZSI6IjE1MzMyMTMzMjYxNTg0NDE2MzExMTA4In1d</link>
+      <image_link>https://snapshots.canstar.com.au/widgets/assets/image/company/small_zotr_logo.png</image_link>
+      <price>370</price>
+    </item>
+    <item>
+      <id>38335088</id>
+      <title>Freely | Overseas Explorer</title>
+      <link>https://www.canstar.com.au/redirect/travel-insurance?vertical=travel_insurance&amp;flags=monetised&amp;selectorFields=W3sibmFtZSI6IkRlc3RpbmF0aW9uIiwidHlwZSI6InN0cmluZyIsInZhbHVlIjoiVVNBJTIwYW5kJTIwSGF3YWlpIn0seyJuYW1lIjoiQWdlIiwidHlwZSI6InN0cmluZyIsInZhbHVlIjoiMTglMjAtJTIwNjklMjB5ZWFycyJ9XQ==&amp;filterFields=W3sibmFtZSI6IlByb2R1Y3QgSUQiLCJ2YWx1ZSI6IjM4MzM1MDg4MjMzMDcyNjAwODAxMTA4In1d</link>
+      <image_link>https://snapshots.canstar.com.au/widgets/assets/image/company/small_frly_logo.png</image_link>
+      <price>320</price>
+    </item>
+    <item>
+      <id>58235412</id>
+      <title>Travel Protect | Explorer</title>
+      <link>https://www.canstar.com.au/redirect/travel-insurance?vertical=travel_insurance&amp;flags=monetised&amp;selectorFields=W3sibmFtZSI6IkRlc3RpbmF0aW9uIiwidHlwZSI6InN0cmluZyIsInZhbHVlIjoiVVNBJTIwYW5kJTIwSGF3YWlpIn0seyJuYW1lIjoiQWdlIiwidHlwZSI6InN0cmluZyIsInZhbHVlIjoiMTglMjAtJTIwNjklMjB5ZWFycyJ9XQ==&amp;filterFields=W3sibmFtZSI6IlByb2R1Y3QgSUQiLCJ2YWx1ZSI6IjU4MjM1NDEyNDM2MjMzMTc0MTIxMTA4In1d</link>
+      <image_link>https://snapshots.canstar.com.au/widgets/assets/image/company/small_trap_logo.png</image_link>
+      <price>450</price>
+    </item>
+  </channel>
+</rss><?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Travel Insurance Quotes</title>
+    <link>https://www.canstar.com.au</link>
+    <description>Latest travel insurance quotes from different providers</description>
+    <item>
+      <id>73241443</id>
+      <title>Travel Insuranz | Premier Plus</title>
+      <link>https://www.canstar.com.au/redirect/travel-insurance?vertical=travel_insurance&amp;flags=promoted&amp;selectorFields=W3sibmFtZSI6IkRlc3RpbmF0aW9uIiwidHlwZSI6InN0cmluZyIsInZhbHVlIjoiVVNBJTIwYW5kJTIwSGF3YWlpIn0seyJuYW1lIjoiQWdlIiwidHlwZSI6InN0cmluZyIsInZhbHVlIjoiMTglMjAtJTIwNjklMjB5ZWFycyJ9XQ==&amp;filterFields=W3sibmFtZSI6IlByb2R1Y3QgSUQiLCJ2YWx1ZSI6IjczMjQxNDQzODUwNDg3ODQ1NzgxMTA4In1d</link>
+      <image_link>https://snapshots.canstar.com.au/widgets/assets/image/company/small_trav_logo.png</image_link>
+      <price>400</price>
+    </item>
+    <item>
+      <id>15332133</id>
+      <title>Zoom | Standard</title>
+      <link>https://www.canstar.com.au/redirect/travel-insurance?vertical=travel_insurance&amp;flags=monetised&amp;selectorFields=W3sibmFtZSI6IkRlc3RpbmF0aW9uIiwidHlwZSI6InN0cmluZyIsInZhbHVlIjoiVVNBJTIwYW5kJTIwSGF3YWlpIn0seyJuYW1lIjoiQWdlIiwidHlwZSI6InN0cmluZyIsInZhbHVlIjoiMTglMjAtJTIwNjklMjB5ZWFycyJ9XQ==&amp;filterFields=W3sibmFtZSI6IlByb2R1Y3QgSUQiLCJ2YWx1ZSI6IjE1MzMyMTMzMjYxNTg0NDE2MzExMTA4In1d</link>
+      <image_link>https://snapshots.canstar.com.au/widgets/assets/image/company/small_zotr_logo.png</image_link>
+      <price>370</price>
+    </item>
+    <item>
+      <id>38335088</id>
+      <title>Freely | Overseas Explorer</title>
+      <link>https://www.canstar.com.au/redirect/travel-insurance?vertical=travel_insurance&amp;flags=monetised&amp;selectorFields=W3sibmFtZSI6IkRlc3RpbmF0aW9uIiwidHlwZSI6InN0cmluZyIsInZhbHVlIjoiVVNBJTIwYW5kJTIwSGF3YWlpIn0seyJuYW1lIjoiQWdlIiwidHlwZSI6InN0cmluZyIsInZhbHVlIjoiMTglMjAtJTIwNjklMjB5ZWFycyJ9XQ==&amp;filterFields=W3sibmFtZSI6IlByb2R1Y3QgSUQiLCJ2YWx1ZSI6IjM4MzM1MDg4MjMzMDcyNjAwODAxMTA4In1d</link>
+      <image_link>https://snapshots.canstar.com.au/widgets/assets/image/company/small_frly_logo.png</image_link>
+      <price>320</price>
+    </item>
+    <item>
+      <id>58235412</id>
+      <title>Travel Protect | Explorer</title>
+      <link>https://www.canstar.com.au/redirect/travel-insurance?vertical=travel_insurance&amp;flags=monetised&amp;selectorFields=W3sibmFtZSI6IkRlc3RpbmF0aW9uIiwidHlwZSI6InN0cmluZyIsInZhbHVlIjoiVVNBJTIwYW5kJTIwSGF3YWlpIn0seyJuYW1lIjoiQWdlIiwidHlwZSI6InN0cmluZyIsInZhbHVlIjoiMTglMjAtJTIwNjklMjB5ZWFycyJ9XQ==&amp;filterFields=W3sibmFtZSI6IlByb2R1Y3QgSUQiLCJ2YWx1ZSI6IjU4MjM1NDEyNDM2MjMzMTc0MTIxMTA4In1d</link>
+      <image_link>https://snapshots.canstar.com.au/widgets/assets/image/company/small_trap_logo.png</image_link>
+      <price>450</price>
+    </item>
+  </channel>
 </rss>
